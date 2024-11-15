@@ -16,6 +16,8 @@ $Group "gamedlls"
 
 $Group "game"
 {
+	"angelscript"
+	"VScript"
 	"client"
 	"mathlib"
 	"raytrace"
@@ -31,6 +33,8 @@ $Group "shaders"
 
 $Group "everything"
 {
+	"angelscript"
+	"VScript"
 	"captioncompiler"
 	"client"
 	"fgdlib"
