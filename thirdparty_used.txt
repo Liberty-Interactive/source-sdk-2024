@@ -1,0 +1,3 @@
+Projects used in the Source SDK 2024:
+- http://angelcode.com/angelscript/ VScript
+- Valve Developer Community
