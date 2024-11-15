@@ -37,6 +37,10 @@ server.dll
 server.lib
 
 client.so
+game_shader_dx9.pdb
+game_shader_dx9.lib
+game_shader_dx9.so.dbg
+
 client.so.dbg
 server.so
 server.so.dbg
@@ -54,3 +58,14 @@ config.cfg
 # shader files
 *.tmp
 
+# oh well
+*.filters
+*.vpc_crc
+.vs/
+*.sentinel
+server_blacklist.txt
+graphs/
+*.cache
+stats.txt
+user_custom/
+voice_ban.dt
